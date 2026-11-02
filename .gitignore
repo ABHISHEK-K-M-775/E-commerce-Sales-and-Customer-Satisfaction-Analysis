@@ -1,0 +1,22 @@
+#ignore db
+*.db
+*.sqlite
+*.sqlite3
+
+dataset/*.csv
+
+# Ignore Python virtual environment
+myenv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment variables and secrets
+.env
+
+# Ignore Jupyter temporary files
+.ipynb_checkpoints/
+
+# Ignore VS Code settings
+.vscode/

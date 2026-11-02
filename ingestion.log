@@ -1,0 +1,11 @@
+2026-10-28 22:10:42,047-INFO-ingesting olist_customers_dataset.csv into db
+2026-10-28 22:10:48,944-INFO-ingesting olist_geolocation_dataset.csv into db
+2026-10-28 22:11:11,551-INFO-ingesting olist_orders_dataset.csv into db
+2026-10-28 22:11:17,924-INFO-ingesting olist_order_items_dataset.csv into db
+2026-10-28 22:11:24,656-INFO-ingesting olist_order_payments_dataset.csv into db
+2026-10-28 22:11:28,550-INFO-ingesting olist_order_reviews_dataset.csv into db
+2026-10-28 22:11:34,770-INFO-ingesting olist_products_dataset.csv into db
+2026-10-28 22:11:36,365-INFO-ingesting olist_sellers_dataset.csv into db
+2026-10-28 22:11:36,795-INFO-ingesting product_category_name_translation.csv into db
+2026-10-28 22:11:37,210-INFO--------------------ingestion completed-------------------
+2026-10-28 22:11:37,211-INFO-total time for ingestion 0.9271621386210124 minutes

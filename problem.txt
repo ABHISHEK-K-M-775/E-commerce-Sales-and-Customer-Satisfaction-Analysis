@@ -1,0 +1,8 @@
+Problem Statement: Brazilian E-Commerce Data Analysis
+-->Analyze overall sales and revenue performance.
+-->Identify top-selling products and product categories.
+-->Understand customer purchasing behavior and geographic distribution.
+-->Analyze payment methods and payment patterns.
+-->Evaluate delivery performance and identify delays.
+-->Measure customer satisfaction using review scores.
+-->Identify business opportunities to improve sales and customer experience.
